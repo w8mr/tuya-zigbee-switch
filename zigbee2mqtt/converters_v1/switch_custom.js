@@ -190,7 +190,7 @@ const definitions = [
         zigbeeModel: [
             "TS0003-IHS-S",
         ],
-        model: "_TZ3000_ju82pu2b",
+        model: "TW-03",
         vendor: "Tuya-custom",
         description: "Custom switch (https://github.com/romasku/tuya-zigbee-switch)",
         extend: [
