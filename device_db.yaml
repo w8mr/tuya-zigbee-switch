@@ -23,7 +23,7 @@ IHSENO_TS0003_SWITCH:
   tuya_manufacturer_name: _TZ3000_ju82pu2b
   stock_converter_manufacturer: Tuya
   stock_converter_model: TW-03
-  override_z2m_device: _TZ3000_ju82pu2b
+  override_z2m_device: null
   tuya_module: ZTU
   mcu_family: Telink
   mcu: TLSR8258
