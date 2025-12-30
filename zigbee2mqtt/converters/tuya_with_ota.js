@@ -31,6 +31,7 @@ const tuyaModels = [
     "TS0003",
     "TS0004",
     "TW-03",
+    "_TZ3000_zxrfobzw",
 ];
 
 const tuyaMultiplePinoutsModels = [

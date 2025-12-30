@@ -137,6 +137,7 @@ class OnOffWithIndicatorCluster(CustomCluster, OnOff):
 
 CONFIGS = [
     "ju82pu2b;TS0003-IHS-S;LC2i;SC0u;RD2;SB4u;RD3;SB5u;RC0;",
+    "zxrfobzw;TS0002-IHS-S;LC2i;SC0u;RD2;SB5u;RC0;",
 ]
 
 for config in CONFIGS:
